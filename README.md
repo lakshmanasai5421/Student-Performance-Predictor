@@ -53,26 +53,3 @@ This means the model can predict the student's final performance with high relia
 
 ---
 
-## 📂 How to Use
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/student-performance-predictor.git
-cd student-performance-predictor
-```
-
-2. Install the required libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-3. Launch the notebook:
-
-```bash
-jupyter notebook
-```
-
-Then open `Student Performance Predictor.ipynb` and run the cells step-by-step.
-
